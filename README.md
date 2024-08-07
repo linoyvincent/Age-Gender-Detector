@@ -6,4 +6,4 @@ Run the gui.py
 ## To run the model yourself
 Download dataset from [here](https://www.kaggle.com/datasets/jangedoo/utkface-new)
 
-Run the Model.ipynb
+Run the age_gender_detector.ipynb
